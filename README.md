@@ -3,6 +3,8 @@
 
 # Create-Guten-Block [WIP]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ahmadawais/create-guten-block.svg)](https://greenkeeper.io/)
+
 Create WordPress Gutenberg blocks with no build configuration.
 
 Create-Guten-Block has been tested to work on macOS, but must also work on Windows, and Linux.
